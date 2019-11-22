@@ -1,1 +1,1 @@
-Collection of general scripts
+Collection of text-formatting general scripts
